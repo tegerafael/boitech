@@ -58,7 +58,7 @@ span{
 }
 
 @media screen and (min-width: 800px) {
-  .container {
+   body, head{
     margin: 1em 2em;
   }
 }
