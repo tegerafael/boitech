@@ -56,3 +56,9 @@ li a:hover:not(.ativa){
 span{
     vertical-align:middle;
 }
+
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
