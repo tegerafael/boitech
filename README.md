@@ -1,2 +1,2 @@
 # boitech
-boitech
+Boitech
